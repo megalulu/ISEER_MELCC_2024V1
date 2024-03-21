@@ -1,0 +1,26 @@
+{
+    "id": "ECE35995",
+    "path": "C:/Meghana/Repos/ISEER_MELCCFP_2024/metric_functions.R",
+    "project_path": "metric_functions.R",
+    "type": "r_source",
+    "hash": "1737274933",
+    "contents": "",
+    "dirty": false,
+    "created": 1710970082199.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "47,56",
+        "scrollLine": "44"
+    },
+    "folds": "79|79|116|0|\n118|65|151|0|\n152|82|191|0|\n194|91|227|0|\n229|81|256|0|\n258|78|290|0|\n292|73|327|0|\n329|51|348|0|\n353|26|422|2|\n427|51|446|0|\n449|75|482|0|\n484|53|514|0|\n516|81|539|0|\n541|65|575|0|\n",
+    "lastKnownWriteTime": 1710971140,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711048743520,
+    "read_only": false,
+    "read_only_alternatives": []
+}
